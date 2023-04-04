@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CDMO-2022-2023-exercises
 
 Inside this repository you can find the folders for the exercises lessons of the course Combinatorial Decision Making and Optimization for the a.y. 2022-2023. 
@@ -14,8 +13,3 @@ In the SMT folder you will find some exercises solved through z3 solver and writ
 ## MIP 
 
 The MIP folder contains some basic exercises written in minizinc and solved with different solvers, to prove the efficiency of them with different encodings.  -->
-
-=======
-# UNIBO-CDMO-SAT-2223
-This repository contains all the exercises of the course "Combinatorial Decision Making and Optimization" (CDMO) taught at the university of Bologna (UNIBO) on the academic year 2022/2023.
->>>>>>> origin/main
